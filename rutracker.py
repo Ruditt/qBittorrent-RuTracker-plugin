@@ -6,8 +6,9 @@
 class Config(object):
     # Replace `YOUR_USERNAME_HERE` and `YOUR_PASSWORD_HERE` with your RuTracker username and password
     # Do not remove the `u` marker nor the '' quote characters
-    username = u'YOUR_USERNAME_HERE'
-    password = u'YOUR_PASSWORD_HERE'
+    username = u'YOUR_USERNAME_HERE'Ruditt
+    password = u'YOUR_PASSWORD_HERE'y7Ux1
+   
 
     # If you want to use magnet links instead of torrent files for downloading, uncomment `download_type`
     # download_type = 'MAGNET_LINK'
